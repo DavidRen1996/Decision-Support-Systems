@@ -1,0 +1,7 @@
+Q2 INDEX SCHEMA [Q2 index has correct schema]: True {None}
+Q2 QUERYPARSER SCHEMA [Q2 QP has correct schema]: True {None}
+Q2 VALID COMPONENTS [Index, Queryparser, and Searcher are valid]: True {None}
+Q3 IMPROVEMENTS [Q3 Index includes improvements]: True {None}
+Q3 VALID COMPONENTS [Index, Queryparser, and Searcher are valid]: True {None}
+Q4 IMPROVEMENTS [Q4 includes scoring improvements]: True {None}
+Q4 VALID COMPONENTS [Index, Queryparser, and Searcher are valid]: True {None}

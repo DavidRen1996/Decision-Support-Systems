@@ -1,0 +1,8 @@
+Q1_B_BINARY_IMPROVED_DATA1 [Feature set improved]: True {None}
+Q1_B_BINARY_IMPROVED_DATA2 [Number of features should still be num_words (1000 by default)]: False {829}
+Q6_A_BINARY_MED_DATA [Targets for sci.med]: True {None}
+Q2_A_FEATURE_NUM [feature_num output]: True {None}
+Q3_A_HYPERPARAMETER [hyperparameter output structure]: True {None}
+Q5_A_NB_RANDOM_MEAN_CI [nb mean and confidence interval]: True {None}
+Q1_D_RANDOM_MEAN_CI [mean and confidence interval]: True {None}
+Q4_A_TF_IMPROVED_DATA [tf_improved_data output matrix]: True {None}
